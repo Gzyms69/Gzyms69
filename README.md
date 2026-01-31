@@ -10,8 +10,8 @@ Posiadam doświadczenie w diagnozowaniu problemów (jako nauczyciel programowani
 | :--- | :--- |
 | **Systemy & Support** | Linux (Ubuntu/Bash), SQL, Docker, Analiza Logów |
 | **Scripting & Web** | Python, JavaScript (UserScripts), DOM Manipulation |
-| **Bazy Danych** | Neo4j, SQLite (Zapytania, Raportowanie) |
-| **Workflow** | Git, Jira, Ticket Management Systems |
+| **Bazy Danych** | Neo4j, SQLite (Zapytania, Raportowanie), Python |
+| **Workflow** | Git, VS Code, AI (Gemini/Deepseek) |
 
 ---
 
@@ -37,8 +37,8 @@ Posiadam doświadczenie w diagnozowaniu problemów (jako nauczyciel programowani
 ---
 
 ###  Doświadczenie (Transferable Skills)
-* **Technical Education:** 1.5 roku jako nauczyciel programowania (C++, Python). Doświadczenie w **Live Debuggingu** i tłumaczeniu rozwiązań osobom nietechnicznym.
-* **Operational Support:** Praca w FedEx/BBH na systemach zgłoszeniowych. Zarządzanie priorytetami i rozwiązywanie problemów pod presją czasu.
+* **Technical Education:** 1.5 roku jako nauczyciel programowania (C++, Python). Doświadczenie w **Live Debuggingu** i tłumaczeniu rozwiązań osobom nietechnicznym. Pomoc techniczna i odpowiadanie na pytania uczniów przez Discord.
+* **Operational Support:** Praca w FedEx na systemach zgłoszeniowych. Zarządzanie priorytetami i rozwiązywanie problemów pod presją czasu.
 
 ###  Kontakt
 * **Email:** dawidczerwinskibiznes@gmail.com
