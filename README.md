@@ -2,7 +2,7 @@
 
 Jestem specjalistą IT łączącym doświadczenie operacyjne (praca na systemach zgłoszeniowych, SLA) z umiejętnościami technicznymi (Python, SQL, Linux). Szukam roli w **Technical Support / Application Maintenance**, gdzie będę mógł wykorzystać moje skrypty do automatyzacji i usprawniania pracy.
 
-Posiadam doświadczenie w diagnozowaniu problemów (jako nauczyciel programowania) oraz pracy w środowisku korporacyjnym (FedEx, BBH).
+Posiadam doświadczenie w diagnozowaniu problemów (jako nauczyciel programowania) oraz pracy w środowisku korporacyjnym (FedEx).
 
 ###  Kompetencje Techniczne
 
