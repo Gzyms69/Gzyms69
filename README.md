@@ -25,7 +25,6 @@ Developer and Operations Specialist bridging the gap between software engineerin
 ### Key Engineering Projects
 
 #### 1. [WikiGraph - Knowledge Engine](https://github.com/Gzyms69/WikiGraph)
-**Role:** Architect & Lead Developer
 
 A language-agnostic graph engine designed to process Wikipedia dumps into a navigatable structure without external dependencies.
 * **Architecture:** Hybrid Offline/Online system. Uses **Neo4j** for topology and **SQLite** for high-performance metadata retrieval.
@@ -33,7 +32,6 @@ A language-agnostic graph engine designed to process Wikipedia dumps into a navi
 * **Key Feature:** Just-In-Time (JIT) configuration system that fetches parsing rules from Wikimedia API dynamically.
 
 #### 2. [LeadFinder & Katalog Ecosystem](https://github.com/Gzyms69/LeadFinder)
-**Role:** Full-Stack Developer
 
 An end-to-end sales automation pipeline and template marketplace.
 * **Pipeline (Python):** Automated scraping engine that identifies businesses with digital gaps, validates domains, and syncs leads directly to **Google Sheets API**.
