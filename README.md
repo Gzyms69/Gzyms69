@@ -7,7 +7,7 @@
 
 ### Professional Summary
 
-Developer and Operations Specialist bridging the gap between software engineering and IT infrastructure. Combining **10+ years of C++ exposure** (academic background) with practical operational experience at **FedEx**. Focused on building offline-first architectures, automating business workflows, and optimizing data pipelines.
+Developer and Operations Specialist bridging the gap between software engineering and IT infrastructure. Combining **10+ years of C++ exposure** (academic background) with practical operational experience at **FedEx** and IT Mentorship experience at **Giganci Programowania**. Focused on building offline-first architectures, automating business workflows, and optimizing data pipelines.
 
 ---
 
