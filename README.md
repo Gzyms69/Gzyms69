@@ -7,7 +7,7 @@
 
 ### Professional Summary
 
-Developer and Operations Specialist bridging the gap between software engineering and IT infrastructure. Combining **10+ years of C++ exposure** (academic background) with practical operational experience at **FedEx** and IT Mentorship experience at **Giganci Programowania**. Focused on building offline-first architectures, automating business workflows, and optimizing data pipelines.
+Junior Software Engineer & Technical Support Specialist with a strict engineering mindset. I combine strong academic foundations in C++ (Memory Management, Pointers) with 2 years of practical experience in Python automation and operational workflows (FedEx, STEM Education). 
 
 ---
 
