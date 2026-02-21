@@ -6,7 +6,7 @@
 
 ### Professional Summary
 
-I combine strong academic foundations in C++ (Memory Management, Pointers) with 2 years of practical experience in Python (Giganci Programowania, private projects), automation and operational workflows (FedEx, STEM Education). 
+I combine strong academic foundations in C++ with 2 years of practical experience in Python (Giganci Programowania, private projects), automation and operational workflows (FedEx, STEM Education). 
 
 ---
 
