@@ -1,13 +1,12 @@
 # Dawid Czerwiński (Gzyms69)
 
-**Junior Software Engineer | Technical Support Specialist**
 *Kraków, Poland*
 
 ---
 
 ### Professional Summary
 
-Junior Software Engineer & Technical Support Specialist with a strict engineering mindset. I combine strong academic foundations in C++ (Memory Management, Pointers) with 2 years of practical experience in Python (Giganci Programowania, private projects), automation and operational workflows (FedEx, STEM Education). 
+I combine strong academic foundations in C++ (Memory Management, Pointers) with 2 years of practical experience in Python (Giganci Programowania, private projects), automation and operational workflows (FedEx, STEM Education). 
 
 ---
 
