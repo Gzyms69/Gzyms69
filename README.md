@@ -32,7 +32,7 @@ A language-agnostic graph engine designed to process Wikipedia dumps into a navi
 
 #### 2. [LeadFinder & Katalog Ecosystem](https://github.com/Gzyms69/LeadFinder)
 
-An end-to-end sales automation pipeline and template marketplace.
+An end-to-end sales automation pipeline and template marketplace (katalog.czerwinskidawid.pl).
 * **Pipeline (Python):** Automated scraping engine that identifies businesses with digital gaps, validates domains, and syncs leads directly to **Google Sheets API**.
 * **Marketplace (Next.js 15):** A high-performance Monorepo built with **Turborepo**. Features a **Dynamic Sales Architecture** that generates personalized demo websites ("Magic Links") via URL parameters.
 * **Contribution:** Forked and patched a third-party Google Maps scraper to fix critical logic errors in review counting.
