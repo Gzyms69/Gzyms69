@@ -52,5 +52,4 @@ An end-to-end sales automation pipeline and template marketplace (katalog.czerwi
 ---
 
 ### Contact Information
-* **Email:** dawidczerwinskibiznes@gmail.com
-* **LinkedIn:** [Dawid Czerwiński](https://www.linkedin.com/in/dawid-czerwi%C5%84ski-baa6b5149/)
+* **Email:** kontakt@czerwinskidawid.pl
