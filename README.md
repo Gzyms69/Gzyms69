@@ -41,7 +41,7 @@ An end-to-end sales automation pipeline and template marketplace (katalog.czerwi
 
 ### Professional Experience
 
-**Technical Support / Operations** | *FedEx Express Ireland*
+**Support / Operations** | *FedEx Express Ireland*
 * Managed ticket-based workflows and critical SLA compliance for international logistics.
 * Specialized in customs documentation analysis and system troubleshooting.
 
